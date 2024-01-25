@@ -18,5 +18,8 @@
     <ClCompile Include="lw04-iow28.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="lw04.h">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
